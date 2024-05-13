@@ -6,11 +6,11 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://hugeota.d.miui.com/21.5.31/miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'https://gauss-componentotacostmanual-cn.allawnfs.com/remove-4d65db050d52e76f5a61df49d02d417c/component-ota/23/03/28/b01e0f8dab434b79b884b1c31b11ccca.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'OPPO12.1.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
